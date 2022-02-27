@@ -1,0 +1,147 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The promise of God proclaimed; which is Christ the everlasting covenant of God to the Jews, Gentiles, and all people upon the earth, which God spake by his prophets, and was preached by the apostles, and by his servants and messengers sent forth since for Barbadoes, New-England, Virginia, the East and West Indies, and the south and north parts of the vvorld, to go to them all.</title>
+            <author>Fox, George, 1624-1691.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84807</idno>
+            <idno type="STC">Wing F1888A</idno>
+            <idno type="STC">ESTC R177302</idno>
+            <idno type="EEBO-CITATION">45097787</idno>
+            <idno type="OCLC">ocm 45097787</idno>
+            <idno type="VID">171375</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84807)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171375)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2572:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The promise of God proclaimed; which is Christ the everlasting covenant of God to the Jews, Gentiles, and all people upon the earth, which God spake by his prophets, and was preached by the apostles, and by his servants and messengers sent forth since for Barbadoes, New-England, Virginia, the East and West Indies, and the south and north parts of the vvorld, to go to them all.</title>
+                  <author>Fox, George, 1624-1691.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Simmons,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: George Fox.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Jesus Christ --  Divinity --  Early works to 1800.</term>
+               <term>Jesus Christ --  Devotional literature --  Early works to 1800.</term>
+               <term>Devotional literature --  Early works to 1800.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-10</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="tract">
+            <pb facs="tcp:171375:1"/>
+            <head>The Promiſe of God Proclamed; Which is Chriſt the everlaſting Covenant of God to the <hi>Jews,</hi> Gentiles, and all people upon the earth, which God ſpake by his Prophets, and was preached by the Apoſtles, and by his Servants and Meſſengers ſent forth ſince for <hi>Barbadoes, New-England, Virginia,</hi> the Eaſt and Weſt <hi>Indies,</hi> and the South and North parts of the VVorld, to go to them all.</head>
+            <p>
+               <seg rend="decorInit">T</seg>HE promiſe of the moſt High God that lives for ever<g ref="char:EOLhyphen"/>more, which he promiſed to them Gentiles by his pro<g ref="char:EOLhyphen"/>phets in the daies of old, Iſa. 11. 10. the Earth ſhall be full of the knowledge of the Lord, as the waters cover the Sea, mark, and in that day, mark, there ſhall be a root of Ieſſe, Ieſſes root which ſhall ſtand for an enſign of the people, to it ſhall the Gentiles ſeek, mark, to it ſhal the Gentiles ſeek, and his reſt ſhall be glorious.</p>
+            <p>Second Promiſe, behold ſaith the Lord God that lives for ever, behold my ſervant whom I uphold, mine elect in whom my ſoul delighteth, I have put my ſpirit upon him, and the Iles ſhall wait for his Law, he ſhall bring forth judgment to the Gentiles, mark, judgement to them, though they lived as the wild beaſts, this is the promiſe which ſetteth up judgment in the Earth, and the Iles ſhall wait for his Law, he that Creates the Heavens, the Lord God, and he that ſpreadeth forth the Earth, and that which cometh out of it, and he that giveth breath unto the people, and ſpirit to them that dwelt therin, and hath called his Covenant in righteouſneſs, and will uphold his hand; I will give thee for a Covenant of the people, and a light to the Gentiles to open the blind eyes, and to bring the priſoner out of the priſon, and them that ſit in darkneſs out of the priſon-houſe, Iſa. 42. 1. 6, 7.</p>
+            <p>The Lord he will not give his glory to graven Images, and his Covenant of light is a new thing he wil bring to paſs in the Earth, who meaſures the waters in the hollow of his hand, and meteth out Heaven with a ſpan, and comprehends the duſt of the Earth in a meaſure, and weigheth the Mountains in ſcales and the Hills in a ballance, the mighty God of Heaven and Earth, that is the God of the ſpirits of all fleſh, and hath all ſouls in his hand, God that lives for ever and ever, whoſe hand is his power, all Na<g ref="char:EOLhyphen"/>tions are as a drop of a bucket, and are accounted as the duſt of a ballance, behold he taketh up the Iles as a very ſmall thing, all Nations before him are as nothing, and they are accounted to him as leſs then nothing and vanity, then to whom will you liken God that lives for ever and ever, Iſa. 40.</p>
+            <p>And the living God ſaith concerning Chriſt his Covenant, is it a light thing that thou ſhould be my ſervant, to raiſe up the tribes of Iacob, and reſtore the preſerved of Iſrael? I will give thee for a light to the Gentiles (mark, the Heathen) which ſhall gather Iſrael, and be my Salvation to the ends of the Earth, to him that the Nations ſhall abhor and man ſhall diſpiſe, but thou ſhalt ſay to the priſoners go forth, and to them that be in darkneſs ſhew your ſelves, then the Heavens ſhall ſing, and the Earth ſhall be joyful, Iſay 49. I will lift up my hand ſaith the Lord God that lives for evermore to the Gentiles, mark, the heathen, and ſet up my ſtan<g ref="char:EOLhyphen"/>dard to the people, ver. 22.</p>
+            <p>And thou ſhalt break forth on the right hand and on the left, and thy ſeed ſhall inherit the Gentiles, and the deſolate Cities ſhall be inhabited, Iſa. 54. mark, the Gentiles ſhall inherit the ſeed, and ſo become heirs; and this is the Covenant ſaith the Lord God that lives for ever, my ſpirit that is upon thee.</p>
+            <p>Ariſe ſhine, for light is come, and the glory of the Lord is riſen, the Gentiles ſhall come to thy light, and the Kings to the bright<g ref="char:EOLhyphen"/>neſs of thy riſing, and thou ſhalt ſee and flow together, and thine heart ſhall fear and be enlarged becauſe the abundance of the ſea ſhall be converted, mark, the Sea unto thee, and the force of the Gentiles ſhall come unto thee, and theſe ſhall ſhew forth the prayſes of the Lord that lives for ever, and the Iles ſhall wait for me ſaith the Lord, Iſa. 60. 2. 5.</p>
+            <p>And ſaith the Lord that loves judgment, that makes the ever<g ref="char:EOLhyphen"/>laſting Covenant with the Iews, their ſeed ſhall be known among the Gentiles, and their off-ſpring among the people; rejoyce in the Lord my ſoul and be joyfull in God that lives for ever, for he cloatheth me with a garment of ſalvation, and covereth me with the robes of righteouſneſs, who cauſeth righteouſneſs and peace to ſpring forth before all Nations, the Gentiles ſhall ſee thy righte<g ref="char:EOLhyphen"/>ouſneſs and all Kings thy glory, and righteouſneſs ſhall go forth as brightneſs, and ſalvation as a Lamp that burneth, the Lord God ſhall be an everlaſting light unto thee, and thy God thy glory, and the Lord God ſhall be thy everlaſting light, and the dayes of thy mourning ſhall be ended, and thy people ſhall be all righteous, and they ſhall inherit the Land for ever, the branch of my planting, the work of my hand that it may be gloryfied for ever, a little one ſhall become a thouſand, and a ſmall one a ſtrong Nation, I the Lord will haſten it in its time, Iſa. 61. 9. chap. 62. 2.</p>
+            <p>I will gather all Nations ſaith the living God and tongues, and they ſhall come to ſee my glory, and I will ſet him for a ſigne among them, to the Iles and them afar off that have not heard my fame, and they that heard my glory ſhall declare my Name among the Gentiles, as the new Heavens and the new Earth that I make ſhall remain before me ſaith the Lord, ſo ſhall your ſeed and your Name remain, Iſa 66. 19. 22. For thou O Lord that made the Heavens, Ier. 14. The Gentiles ſhall come from the ends of the Earth, and ſay ſurely our Fathers inherited lyes wherein there is no profit, Ier. 16. here the Gentiles come to ſee their own vani<g ref="char:EOLhyphen"/>ties with the light that comes from God; Proclaim among the Gentiles ſaith the mighty God, let the Heathen be awakned, come all ye Heathen &amp; gather your ſelves together, let the Heathen be a<g ref="char:EOLhyphen"/>wakned &amp; come up to the vally of Iehoſaphat, for there I wil judge them round about, for the harveſt is ripe and the preſs is full, and the ſickle is ready, Ioel, 3. and my name ſhall be great among the Heathen ſaith the Lord of hoſts, from the riſing of the Sun to the going down of the ſame, ſhall my Name be great among the Gen<g ref="char:EOLhyphen"/>tiles, in every place ſhall incenſe be offered to my Name, Mat. 1.</p>
+            <p>Mat. 12 He ſhall ſhew judgment to the Gentiles, and he ſhall not ſtrive, a bruſed reed he will not break, nor the ſmoaking flax he will not quench, and ſhall bring forth iudgment to the Gentiles; and Simeon Propheſies who ſaid his eys had ſeen his Salvation, a light to enlighten the Gentiles, and the glory of Iſrael, Luke. 2.</p>
+            <p>The Lord ſent Paul atter he had opened his eyes and had choſen him to bear his name among the Gentiles, Act. 11. and many of the Gentiles received the word of the mighty God, through Paul, and God granted repentance unto the Gentiles unto life, and the Gentiles glorified the word of the Lord as many as knew the life e<g ref="char:EOLhyphen"/>ternal, and the Gentiles beſought the Apoſtles to preach the word, Acts. 13. And Chriſt ſuffered and roſe again, that he might ſhew light to the people and the Gentiles according to the Prophets, Act. 26. and ſo many of the Gentiles were called in the daies of the Apo<g ref="char:EOLhyphen"/>ſtles and came to ſee the Glory of God.</p>
+            <p>And the Gentiles that ſeeked not after the righteouſneſs have obtained to the righteouſneſs of faith, and the Gentiles did by na<g ref="char:EOLhyphen"/>ture the things contained in the Law which judged the Iews, that had the Law, Rom. 9. For both Iews and Gentiles was concluded under ſin that he might have mercy upon all, and God was the God of the Gentiles as well as the Iews, Rom. 3. So glory and honour be to the Iew and Gentile that doth ſeek the glory and honour and eternal life, Rom. 2. And that the Gen<g ref="char:EOLhyphen"/>tiles might glorifie God for his mercy, as it is written, for this cauſe I will confeſs thy Name among the Gentiles and ſing forth thy Praiſe, and Iſaiah ſaith there ſhall be a root of Ieſſe, mark, ſhall a riſe and ſhall reign over the Gentiles, and in him ſhall the Gentiles truſt, and God revealed his Son in the Apoſtle that he might preach him among the Gentiles, who is now revealed that he might be preached, and the bleſſing of Abraham might come up<g ref="char:EOLhyphen"/>on the Gentiles that they might receive the promiſe of the ſpirit through faith, Gal. 1. and 3. chap. That the Gentiles ſhould be heirs and partakers of the promiſe of Chriſt by the Goſpel, Eph, 3. To whom God would make known what is the riches of his Pro<g ref="char:EOLhyphen"/>miſe to the Gentiles, Chriſt in you the hope of glory, Col. 1. And great is the myſtery of Godlineſs, God manifeſted in the fleſh, preached unto the Gentiles, believed on in the World that it might be fulfilled that was written, the Land of Zebulon and Naphtali by the Sea-coſts beyond Iordan, Galilee of the Gentiles ſpoken of by the Prophet Iſaiah, they that ſat in darkneſs and the Region and ſhaddow of death, to them Light ſprang forth, Mat. 4.</p>
+            <p>Paul in his confeſſion ſaid, he was ſent to open the eyes of the blind, and turn people from darkneſs to light, and from the power of Satan unto God, this he confeſſed before the Heathen Rulers, at which they thought he had been mad, which preached to the Gentiles Repentance, to turn to God from dead works, Act. 10, 11. chap. And Paul declared in the midſt of Mars-Hill the un<g ref="char:EOLhyphen"/>known God, which ſet all the Heathen in an uproar, Acts 17.</p>
+            <p>And the Lord put on Righteouſneſs as a breſt-plate, and the Helmet of ſalvation upon his head, and the garments of vengeance, for clothing, and clad with zeal for a Cloak, Iſ<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. 59. 1<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.</p>
+            <closer>
+               <signed>George Fox.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>Thomas Simmons</hi> 1660.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
